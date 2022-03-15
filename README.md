@@ -1,7 +1,7 @@
 # UFO Sightings: Fact or Fancy?
 
 ## Purpose of Analysis
-The purpose of this analysis was to use a combination of Javascript ES6, HTML, CSS, and Bootstrap to assist Dana, a data jouranalist, with creating an interactive webpage used for searching documented UFO sightings throughout the United States.
+The purpose of this analysis was to use a combination of Javascript ES6, HTML, CSS, and Bootstrap to assist Dana, a data journalist, with creating an interactive webpage used for searching documented UFO sightings throughout the United States.
 
 ## Results
 The result of this analysis was an interactive webpage with the ability to filter through data for specific instances of UFO sightings. The webpage allows for data to be filtered through date, city, state, country, or shape of the UFO.
